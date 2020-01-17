@@ -1,0 +1,197 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ArtifactsWorkspaceSettings">
+    <artifacts-to-build>
+      <artifact name="ChienTranhKhongGian:jar" />
+    </artifacts-to-build>
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="b69617a2-fd15-4670-8321-fa59090ac2e8" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="GithubDefaultAccount">
+    <option name="defaultAccountId" value="66c77850-1b98-4011-b616-7072e27fc672" />
+  </component>
+  <component name="ProjectId" id="1WVJ039RhgtbMJPQVxAAG3s8IgZ" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="GenerateAntBuildDialog.backupFiles" value="true" />
+    <property name="GenerateAntBuildDialog.enableUiFormCompile" value="true" />
+    <property name="GenerateAntBuildDialog.forceTargetJdk" value="true" />
+    <property name="GenerateAntBuildDialog.outputFileNameProperty" value="chientranhkhonggian" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="node.js.detected.package.eslint" value="true" />
+    <property name="node.js.detected.package.tslint" value="true" />
+    <property name="node.js.path.for.package.eslint" value="project" />
+    <property name="node.js.path.for.package.tslint" value="project" />
+    <property name="node.js.selected.package.eslint" value="(autodetect)" />
+    <property name="node.js.selected.package.tslint" value="(autodetect)" />
+    <property name="project.structure.last.edited" value="Modules" />
+    <property name="project.structure.proportion" value="0.15" />
+    <property name="project.structure.side.proportion" value="0.2" />
+    <property name="settings.editor.selected.configurable" value="vcs.Git" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CreateClassDialog.RecentsKey">
+      <recent name="util" />
+    </key>
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/src" />
+    </key>
+  </component>
+  <component name="RunManager" selected="Application.ChienTranhKhongGian">
+    <configuration name="ChienTranhKhongGian" type="Application" factoryName="Application" singleton="false" temporary="true" nameIsGenerated="true">
+      <option name="INCLUDE_PROVIDED_SCOPE" value="true" />
+      <option name="MAIN_CLASS_NAME" value="ChienTranhKhongGian" />
+      <module name="ChienTranhKhongGian" />
+      <shortenClasspath name="MANIFEST" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="ChienTranhKhongGian_jar.jar" type="JarApplication" temporary="true">
+      <option name="JAR_PATH" value="$PROJECT_DIR$/out/artifacts/ChienTranhKhongGian_jar/ChienTranhKhongGian_jar.jar" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <module name="ChienTranhKhongGian" />
+      <method v="2" />
+    </configuration>
+    <list>
+      <item itemvalue="Application.ChienTranhKhongGian" />
+      <item itemvalue="JAR Application.ChienTranhKhongGian_jar.jar" />
+    </list>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.ChienTranhKhongGian" />
+        <item itemvalue="JAR Application.ChienTranhKhongGian_jar.jar" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="ServiceViewManager">
+    <option name="viewStates">
+      <list>
+        <serviceView>
+          <treeState>
+            <expand />
+            <select />
+          </treeState>
+        </serviceView>
+      </list>
+    </option>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration>$USER_HOME$/.subversion</configuration>
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="b69617a2-fd15-4670-8321-fa59090ac2e8" name="Default Changelist" comment="" />
+      <created>1579228601678</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1579228601678</updated>
+      <workItem from="1579228605612" duration="6347000" />
+      <workItem from="1579235730318" duration="9000" />
+      <workItem from="1579235750592" duration="5265000" />
+      <workItem from="1579243734387" duration="4578000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="188" y="174" key="#Project_Structure" timestamp="1579243806996">
+      <screen x="0" y="26" width="1920" height="1054" />
+    </state>
+    <state x="188" y="174" key="#Project_Structure/0.26.1920.1054@0.26.1920.1054" timestamp="1579243806996" />
+    <state x="-20" y="150" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1579247009093">
+      <screen x="0" y="26" width="1920" height="1054" />
+    </state>
+    <state x="-20" y="150" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.26.1920.1054@0.26.1920.1054" timestamp="1579247009093" />
+    <state x="876" y="356" key="#com.intellij.fileTypes.FileTypeChooser" timestamp="1579228899806">
+      <screen x="0" y="26" width="1920" height="1054" />
+    </state>
+    <state x="876" y="356" key="#com.intellij.fileTypes.FileTypeChooser/0.26.1920.1054@0.26.1920.1054" timestamp="1579228899806" />
+    <state x="326" y="298" key="#com.intellij.ide.util.TreeClassChooserDialog" timestamp="1579232716903">
+      <screen x="0" y="26" width="1920" height="1054" />
+    </state>
+    <state x="326" y="298" key="#com.intellij.ide.util.TreeClassChooserDialog/0.26.1920.1054@0.26.1920.1054" timestamp="1579232716903" />
+    <state x="1019" y="26" key="#com.intellij.refactoring.rename.AutomaticRenamingDialog" timestamp="1579229930443">
+      <screen x="0" y="26" width="1920" height="1054" />
+    </state>
+    <state x="1019" y="26" key="#com.intellij.refactoring.rename.AutomaticRenamingDialog/0.26.1920.1054@0.26.1920.1054" timestamp="1579229930443" />
+    <state x="376" y="256" key="FileChooserDialogImpl" timestamp="1579248307288">
+      <screen x="0" y="26" width="1920" height="1054" />
+    </state>
+    <state x="376" y="256" key="FileChooserDialogImpl/0.26.1920.1054@0.26.1920.1054" timestamp="1579248307288" />
+    <state x="360" y="439" key="Github.CreateGistDialog" timestamp="1579248132604">
+      <screen x="0" y="26" width="1920" height="1054" />
+    </state>
+    <state x="360" y="439" key="Github.CreateGistDialog/0.26.1920.1054@0.26.1920.1054" timestamp="1579248132604" />
+    <state width="904" height="306" key="GridCell.Tab.0.bottom" timestamp="1579248315371">
+      <screen x="0" y="26" width="1920" height="1054" />
+    </state>
+    <state width="904" height="306" key="GridCell.Tab.0.bottom/0.26.1920.1054@0.26.1920.1054" timestamp="1579248315371" />
+    <state width="1340" height="328" key="GridCell.Tab.0.bottom/0.30.1920.1050@0.30.1920.1050" timestamp="1579242975358" />
+    <state width="904" height="306" key="GridCell.Tab.0.center" timestamp="1579248315370">
+      <screen x="0" y="26" width="1920" height="1054" />
+    </state>
+    <state width="904" height="306" key="GridCell.Tab.0.center/0.26.1920.1054@0.26.1920.1054" timestamp="1579248315370" />
+    <state width="1340" height="328" key="GridCell.Tab.0.center/0.30.1920.1050@0.30.1920.1050" timestamp="1579242975358" />
+    <state width="904" height="306" key="GridCell.Tab.0.left" timestamp="1579248315370">
+      <screen x="0" y="26" width="1920" height="1054" />
+    </state>
+    <state width="904" height="306" key="GridCell.Tab.0.left/0.26.1920.1054@0.26.1920.1054" timestamp="1579248315370" />
+    <state width="1340" height="328" key="GridCell.Tab.0.left/0.30.1920.1050@0.30.1920.1050" timestamp="1579242975358" />
+    <state width="904" height="306" key="GridCell.Tab.0.right" timestamp="1579248315370">
+      <screen x="0" y="26" width="1920" height="1054" />
+    </state>
+    <state width="904" height="306" key="GridCell.Tab.0.right/0.26.1920.1054@0.26.1920.1054" timestamp="1579248315370" />
+    <state width="1340" height="328" key="GridCell.Tab.0.right/0.30.1920.1050@0.30.1920.1050" timestamp="1579242975358" />
+    <state width="904" height="306" key="GridCell.Tab.1.bottom" timestamp="1579248315371">
+      <screen x="0" y="26" width="1920" height="1054" />
+    </state>
+    <state width="904" height="306" key="GridCell.Tab.1.bottom/0.26.1920.1054@0.26.1920.1054" timestamp="1579248315371" />
+    <state width="1340" height="328" key="GridCell.Tab.1.bottom/0.30.1920.1050@0.30.1920.1050" timestamp="1579242975221" />
+    <state width="904" height="306" key="GridCell.Tab.1.center" timestamp="1579248315371">
+      <screen x="0" y="26" width="1920" height="1054" />
+    </state>
+    <state width="904" height="306" key="GridCell.Tab.1.center/0.26.1920.1054@0.26.1920.1054" timestamp="1579248315371" />
+    <state width="1340" height="328" key="GridCell.Tab.1.center/0.30.1920.1050@0.30.1920.1050" timestamp="1579242975221" />
+    <state width="904" height="306" key="GridCell.Tab.1.left" timestamp="1579248315371">
+      <screen x="0" y="26" width="1920" height="1054" />
+    </state>
+    <state width="904" height="306" key="GridCell.Tab.1.left/0.26.1920.1054@0.26.1920.1054" timestamp="1579248315371" />
+    <state width="1340" height="328" key="GridCell.Tab.1.left/0.30.1920.1050@0.30.1920.1050" timestamp="1579242975221" />
+    <state width="904" height="306" key="GridCell.Tab.1.right" timestamp="1579248315371">
+      <screen x="0" y="26" width="1920" height="1054" />
+    </state>
+    <state width="904" height="306" key="GridCell.Tab.1.right/0.26.1920.1054@0.26.1920.1054" timestamp="1579248315371" />
+    <state width="1340" height="328" key="GridCell.Tab.1.right/0.30.1920.1050@0.30.1920.1050" timestamp="1579242975221" />
+    <state x="76" y="90" key="SettingsEditor" timestamp="1579248312095">
+      <screen x="0" y="26" width="1920" height="1054" />
+    </state>
+    <state x="76" y="90" key="SettingsEditor/0.26.1920.1054@0.26.1920.1054" timestamp="1579248312095" />
+    <state x="76" y="94" key="SettingsEditor/0.30.1920.1050@0.30.1920.1050" timestamp="1579242933227" />
+    <state x="456" y="357" key="com.intellij.ide.util.TipDialog" timestamp="1579235759543">
+      <screen x="0" y="30" width="1920" height="1050" />
+    </state>
+    <state x="456" y="357" key="com.intellij.ide.util.TipDialog/0.30.1920.1050@0.30.1920.1050" timestamp="1579235759543" />
+  </component>
+</project>
